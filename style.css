@@ -26,5 +26,5 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 5px,9px,5px,#000;
+  box-shadow: 5px 9px 5px #000;
 }
